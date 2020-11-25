@@ -1,5 +1,4 @@
-FROM swaagie/base-without-s6:v18.04
-MAINTAINER Gorka Lerchundi Osa <glertxundi@gmail.com>
+FROM meiskam/base-without-s6:18.04
 
 ##
 ## ROOTFS
