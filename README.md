@@ -1,4 +1,4 @@
-# base [![Docker Repository on Quay.io](https://quay.io/repository/justcontainers/base/status "Docker Repository on Quay.io")](https://quay.io/repository/justcontainers/base)
+# docker-ubuntu-s6
 
 A simple yet powerful ubuntu base image.
 
