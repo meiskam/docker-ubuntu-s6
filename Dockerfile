@@ -1,4 +1,4 @@
-FROM meiskam/ubuntu-without-s6:18.04
+FROM meiskam/ubuntu-without-s6:20.04
 
 ##
 ## ROOTFS
